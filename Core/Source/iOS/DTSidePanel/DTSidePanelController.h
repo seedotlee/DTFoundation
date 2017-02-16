@@ -7,7 +7,7 @@
 //
 
 #import "UIViewController+DTSidePanelController.h"
-#import <DTFoundation/DTWeakSupport.h>
+#import "DTWeakSupport.h"
 
 
 

@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Cocoanetics. All rights reserved.
 //
 
-#import <DTFoundation/DTWeakSupport.h>
+#import "DTWeakSupport.h"
 
 @class DTSidePanelController;
 
